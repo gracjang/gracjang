@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gracjang&show_icons=true&locale=en&layout=compact" alt="gracjang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gracjang&show_icons=true&locale=en" alt="gracjang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gracjang&" alt="gracjang" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gracjang&show_icons=true&locale=en" alt="gracjang" /></p>
