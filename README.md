@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Nice to see you ! I am Gracjan</h1>
-<h3 align="center">On my github you will find many information about .Net Core and C#. Thanks a lot of for visit my portfolio ;)</h3>
+<h1 align="center">👋👋👋 Nice to see you ! I am Gracjan.</h1>
+<h3 align="center">On my github you will find many information about .Net Core and C#. Thanks a lot of for visit my portfolio.</h3>
 
 - 🔭 I’m currently working on [Veles](https://github.com/gracjang/Veles)
 
